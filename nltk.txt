@@ -1,4 +1,4 @@
-wordnet
+WordNet
 words
 stopwords
 
