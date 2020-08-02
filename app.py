@@ -1,9 +1,7 @@
-from flask import Flask,render_template,url_for,request
+from flask import Flask,render_template,url_for,request,jsonify
 import pandas as pd 
 import pickle
 import re
-import nltk
-nltk.download()
 from nltk.corpus import words
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
