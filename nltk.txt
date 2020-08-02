@@ -1,4 +1,3 @@
-WordNet
 words
 stopwords
 
